@@ -23,4 +23,9 @@
 
 7)RegTech is the management of regulatory processes within the financial industry through technology
 
+8) SciPy in Python is an open-source library used for solving mathematical, scientific, engineering, and technical problems.
+
+
+
+
 
